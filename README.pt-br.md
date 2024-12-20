@@ -17,4 +17,3 @@ Este script em Python consulta a API pública ViaCEP para buscar informações d
 cep,logradouro,tipo_logradouro
 32370-670,Rua ABC,Rua
 65058-324,Avenida dos Trabalhadores,Avenida
-```
